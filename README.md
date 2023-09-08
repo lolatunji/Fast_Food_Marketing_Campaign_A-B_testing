@@ -22,15 +22,27 @@ The 3 image above shows the data are normally distributed and we can continue wi
 To help evaluate the promotion that performs best, hypothesis testing will be used.
 
 # Formulating Hypothesis testing:
-Null Hypothesis: states that there is no significant difference between promotion one and two.
+**Null Hypothesis**: states that there is no significant difference between promotion one and two.
 
-Alternative Hypothesis: state there is a significant difference between promotion one and two.
+**Alternative Hypothesis**: states there is a significant difference between promotion one and two.
 
 Microsoft Excel will be used to run the hypothesis test and the result is shown below.
 
-![image](https://github.com/lolatunji/Fast_Food_Marketing_Campaign_A-B_testing/assets/108012164/dc245c14-d7a2-41e5-a132-a159779ca04f)
+![image](https://github.com/lolatunji/Fast_Food_Marketing_Campaign_A-B_testing/assets/108012164/17d7e3aa-ff2e-4db7-8285-b637c58564fd)
 
+The result shows that there is a significant difference between the promotion 1 and 2. Promotion 1 outperforms promotion 2.
 
+Now, checking promotions 1 and 3: **The null hypothesis**- states that there is no significant difference between promotions one and three, and **the alternative hypothesis**- states there is a significant difference between promotions one and three.
+
+![image](https://github.com/lolatunji/Fast_Food_Marketing_Campaign_A-B_testing/assets/108012164/4d46a92e-5a6e-4286-89b4-79e7e0c71ff4)
+
+The result of the test shows that there is no significant difference between promotions 1 and 3. Now I can reach a conclusion.
+
+# Conclusion and Recommendation:
+
+The test shows that Promotion 2 was outperformed, and there is no statistical difference between promotion 1 and 3. I strongly recommend that the marketing team use promotions 1 and 3 for the new menu campaign to optimize their sales.
+
+Thanks for reading.
 
 
 
